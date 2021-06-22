@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bhawesh2009/rajsaamndshop.git/static/css/main.2b3f18e2.chunk.css",
+    "main.js": "/bhawesh2009/rajsaamndshop.git/static/js/main.9067ee85.chunk.js",
+    "main.js.map": "/bhawesh2009/rajsaamndshop.git/static/js/main.9067ee85.chunk.js.map",
+    "runtime-main.js": "/bhawesh2009/rajsaamndshop.git/static/js/runtime-main.1b1f7705.js",
+    "runtime-main.js.map": "/bhawesh2009/rajsaamndshop.git/static/js/runtime-main.1b1f7705.js.map",
+    "static/js/2.1f9efdae.chunk.js": "/bhawesh2009/rajsaamndshop.git/static/js/2.1f9efdae.chunk.js",
+    "static/js/2.1f9efdae.chunk.js.map": "/bhawesh2009/rajsaamndshop.git/static/js/2.1f9efdae.chunk.js.map",
+    "index.html": "/bhawesh2009/rajsaamndshop.git/index.html",
+    "precache-manifest.6f481c712dce8f0a8995fddae74b0a48.js": "/bhawesh2009/rajsaamndshop.git/precache-manifest.6f481c712dce8f0a8995fddae74b0a48.js",
+    "service-worker.js": "/bhawesh2009/rajsaamndshop.git/service-worker.js",
+    "static/css/main.2b3f18e2.chunk.css.map": "/bhawesh2009/rajsaamndshop.git/static/css/main.2b3f18e2.chunk.css.map",
+    "static/js/2.1f9efdae.chunk.js.LICENSE.txt": "/bhawesh2009/rajsaamndshop.git/static/js/2.1f9efdae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bhawesh2009/rajsaamndshop.git/static/media/bg.1c9d922f.png",
+    "static/media/logo2.webp": "/bhawesh2009/rajsaamndshop.git/static/media/logo2.e2757ba0.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b1f7705.js",
+    "static/js/2.1f9efdae.chunk.js",
+    "static/css/main.2b3f18e2.chunk.css",
+    "static/js/main.9067ee85.chunk.js"
+  ]
+}
