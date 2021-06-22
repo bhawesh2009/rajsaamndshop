@@ -59,19 +59,18 @@ function Navstuff(props) {
         <div style={{ fontSize: '1.5vh' }}>2 Hours Delivery </div>
 
         <div style={{ fontSize: '1.5vh' }}>Your Local Stores now Online</div>
-        <div style={{ fontSize: '1.5vh' }}>+91 7874517814</div>
+        <div style={{ fontSize: '1.5vh' }}>+91 8306884064</div>
       </div>
 
       <Navbar bg='white' variant='light' expand='lg'>
         <Navbar.Toggle aria-controls='responsive-navbar-nav' />
         <Navbar.Brand href='/'>
-          <img
-            alt=''
-            src={image}
-            width='175'
+          <h1
+           
+           width='175'
             height='70'
             className='d-inline-block align-top'
-          />
+          >Rajsamand Shop</h1>
         </Navbar.Brand>
 
         <Navbar.Collapse id='responsive-navbar-nav'>
@@ -83,7 +82,7 @@ function Navstuff(props) {
                 <Nav.Link href='/seller/orders'>Manage Orders</Nav.Link>
               </>
             ) : (
-                <Nav.Link href='/seller/register'>Create Your Own Shop</Nav.Link>
+                <Button href='/seller/register'>Create Shop</Button>
               )}
           </Nav>
         </Navbar.Collapse>
